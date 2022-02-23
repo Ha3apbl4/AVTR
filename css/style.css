@@ -83,11 +83,9 @@ ul {
 .list__link:hover {
 	background-color: #c1a1d2;
 }
-.list__img {
-}
 
 .header__content {
-	background-image: url(/images/header-bg.png);
+	background-image: url(../images/header-bg.png);
 	min-height: calc(100vh - 100px);
 	background-repeat: no-repeat;
 	background-position: center;
